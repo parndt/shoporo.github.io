@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Shoporo
 locale:           en_US
-url:              
+url:              http://shoporo.org
 
 
 # Jekyll configuration
@@ -26,21 +26,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Peter Berkenbosch
   avatar: bio-photo.jpg
   bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
+  email: peter+shoporo@pero-ict.nl
+  disqus-shortname:
+  twitter: ShoporoRb
   facebook: #username
   google:
     plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: shoporo
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
