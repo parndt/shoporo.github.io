@@ -1,9 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Shoporo is a collection of Open Source, API based ruby components for creating your simple storefront."
+tags: [shoporo, ecommerce, webshop, storefront, ruby, modulair]
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: header_img_1.jpg
 ---
