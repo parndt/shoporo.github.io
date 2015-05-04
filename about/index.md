@@ -8,4 +8,6 @@ image:
   feature: header_img_1.png
 ---
 
+Shoporo is a collection of Open Source, API based ruby components for creating your simple storefront.
+
 More info coming soon!
