@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Peter Berkenbosch
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Coder by day.... and night"
   email: peter+shoporo@pero-ict.nl
   disqus-shortname:
   twitter: ShoporoRb
@@ -42,7 +42,7 @@ owner:
   bing-verify:
   github: shoporo
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: peterberkenbosch
   xing: #username
   instagram: #username
   lastfm: #username
